@@ -6,6 +6,7 @@ public class Test1 {
 
 		System.out.println("aaaaaa");
 		System.out.println("aaaaaa23456");
+		System.out.println("aaaaaa23456");
 	}
 
 }
