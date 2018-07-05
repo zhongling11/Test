@@ -1,12 +1,10 @@
-
 public class Test1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.println("aaaaaa");
-		System.out.println("aaaaaa23456");
-		System.out.println("aaaaaa23456");
+		System.out.println("Hello World!");
+		
 	}
 
 }
